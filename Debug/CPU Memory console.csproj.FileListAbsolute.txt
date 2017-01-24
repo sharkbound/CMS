@@ -1,0 +1,6 @@
+f:\users\bv2803\documents\visual studio 2015\Projects\CPU Memory console\CPU Memory console\bin\Debug\CPU Memory console.exe.config
+f:\users\bv2803\documents\visual studio 2015\Projects\CPU Memory console\CPU Memory console\bin\Debug\CPU Memory console.exe
+f:\users\bv2803\documents\visual studio 2015\Projects\CPU Memory console\CPU Memory console\bin\Debug\CPU Memory console.pdb
+f:\users\bv2803\documents\visual studio 2015\Projects\CPU Memory console\CPU Memory console\obj\Debug\CPU Memory console.csprojResolveAssemblyReference.cache
+f:\users\bv2803\documents\visual studio 2015\Projects\CPU Memory console\CPU Memory console\obj\Debug\CPU Memory console.exe
+f:\users\bv2803\documents\visual studio 2015\Projects\CPU Memory console\CPU Memory console\obj\Debug\CPU Memory console.pdb
