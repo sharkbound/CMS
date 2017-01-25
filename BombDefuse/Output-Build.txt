@@ -1,0 +1,9 @@
+﻿1>------ Build started: Project: BombDefuse, Configuration: Debug Any CPU ------
+1>C:\Users\bv2803\documents\visual studio 2017\Projects\BombDefuse\BombDefuse\Program.cs(71,24,71,25): warning CS0642: Possible mistaken empty statement
+1>C:\Users\bv2803\documents\visual studio 2017\Projects\BombDefuse\BombDefuse\Program.cs(73,17,73,24): warning CS0162: Unreachable code detected
+1>C:\Users\bv2803\documents\visual studio 2017\Projects\BombDefuse\BombDefuse\Program.cs(85,25,85,32): warning CS0162: Unreachable code detected
+1>C:\Users\bv2803\documents\visual studio 2017\Projects\BombDefuse\BombDefuse\Program.cs(93,25,93,32): warning CS0162: Unreachable code detected
+1>C:\Users\bv2803\documents\visual studio 2017\Projects\BombDefuse\BombDefuse\Program.cs(101,25,101,32): warning CS0162: Unreachable code detected
+1>C:\Users\bv2803\documents\visual studio 2017\Projects\BombDefuse\BombDefuse\Program.cs(109,25,109,32): warning CS0162: Unreachable code detected
+1>  BombDefuse -> C:\Users\bv2803\documents\visual studio 2017\Projects\BombDefuse\BombDefuse\bin\Debug\BombDefuse.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

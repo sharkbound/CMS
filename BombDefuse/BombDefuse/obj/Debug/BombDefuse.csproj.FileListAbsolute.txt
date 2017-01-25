@@ -1,0 +1,6 @@
+c:\users\bv2803\documents\visual studio 2017\Projects\BombDefuse\BombDefuse\bin\Debug\BombDefuse.exe.config
+c:\users\bv2803\documents\visual studio 2017\Projects\BombDefuse\BombDefuse\bin\Debug\BombDefuse.exe
+c:\users\bv2803\documents\visual studio 2017\Projects\BombDefuse\BombDefuse\bin\Debug\BombDefuse.pdb
+c:\users\bv2803\documents\visual studio 2017\Projects\BombDefuse\BombDefuse\obj\Debug\BombDefuse.csprojResolveAssemblyReference.cache
+c:\users\bv2803\documents\visual studio 2017\Projects\BombDefuse\BombDefuse\obj\Debug\BombDefuse.exe
+c:\users\bv2803\documents\visual studio 2017\Projects\BombDefuse\BombDefuse\obj\Debug\BombDefuse.pdb
