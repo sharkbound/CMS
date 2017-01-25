@@ -4,3 +4,9 @@ c:\users\bv2803\documents\visual studio 2017\Projects\BombDefuse\BombDefuse\bin\
 c:\users\bv2803\documents\visual studio 2017\Projects\BombDefuse\BombDefuse\obj\Debug\BombDefuse.csprojResolveAssemblyReference.cache
 c:\users\bv2803\documents\visual studio 2017\Projects\BombDefuse\BombDefuse\obj\Debug\BombDefuse.exe
 c:\users\bv2803\documents\visual studio 2017\Projects\BombDefuse\BombDefuse\obj\Debug\BombDefuse.pdb
+C:\Users\owner\Desktop\GitHub\downloaded repos\CMS\BombDefuse\BombDefuse\bin\Debug\BombDefuse.exe.config
+C:\Users\owner\Desktop\GitHub\downloaded repos\CMS\BombDefuse\BombDefuse\bin\Debug\BombDefuse.exe
+C:\Users\owner\Desktop\GitHub\downloaded repos\CMS\BombDefuse\BombDefuse\bin\Debug\BombDefuse.pdb
+C:\Users\owner\Desktop\GitHub\downloaded repos\CMS\BombDefuse\BombDefuse\obj\Debug\BombDefuse.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\GitHub\downloaded repos\CMS\BombDefuse\BombDefuse\obj\Debug\BombDefuse.exe
+C:\Users\owner\Desktop\GitHub\downloaded repos\CMS\BombDefuse\BombDefuse\obj\Debug\BombDefuse.pdb

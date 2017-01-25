@@ -12,7 +12,7 @@ namespace BombDefuse
     class Program
     {
         static void Main(string[] args)
-        {            
+        {
             //Print Welcome message
             Console.ForegroundColor = ConsoleColor.DarkGray;
             Console.WriteLine("Welcome to Bomb Defuser (1.0)");
@@ -31,7 +31,7 @@ namespace BombDefuse
             string questionString = Console.ReadLine();
 
             //Create a randomizer object
-             Random RandObj = new Random();
+            Random RandObj = new Random();
 
             //If user types "okay" then continue
             if (questionString.ToLower() == "okay")
@@ -68,10 +68,7 @@ namespace BombDefuse
             }
 
 
-            while(true);
-            {
-                Console.WriteLine("{0}", RandObj.Next(4)+1);
-            }
+            Console.WriteLine("{0}", RandObj.Next(4) + 1);
 
             //Create a randomizer object
             Random RandObject = new Random();
@@ -110,10 +107,13 @@ namespace BombDefuse
                         Console.WriteLine("You cut the correct wire!!!");
                         Console.WriteLine("How many bombs can you defuse?");
                         Thread.Sleep(1000);
-                        
-                        
+                        break;
                     }
-            }         
+            }
+
+
+            Console.WriteLine("Press any key to exit the program...");
+            Console.ReadKey();
         }
     }
 }
